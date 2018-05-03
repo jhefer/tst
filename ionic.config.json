@@ -1,0 +1,8 @@
+{
+  "name": "tst",
+  "app_id": "7ce0cd23",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
